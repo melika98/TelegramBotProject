@@ -36,7 +36,7 @@ The bot's code and related documentation are hosted on PythonAnywhere for easy a
 The project is implemented in Python, leveraging various libraries for bot development and API interactions. Detailed information on the libraries and tools used can be found within the project's documentation.
 
 ## Final Notes
-Users are encouraged to follow the bot's instructions closely and select from the provided options to ensure smooth operation
+Users are encouraged to follow the bot's instructions closely and select from the provided options to ensure smooth operation.
 
 
 
